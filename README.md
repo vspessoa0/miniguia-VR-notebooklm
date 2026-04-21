@@ -8,3 +8,5 @@ Objetivos:
 Entender o estado atual da VR
 Investigar tecnologias que aproximam do conceito de Full Dive
 Identificar limitações técnicas e científicas
+
+Link do NotebookLM: https://notebooklm.google.com/notebook/2a1eed5e-7414-4768-9010-405ffa76782f
